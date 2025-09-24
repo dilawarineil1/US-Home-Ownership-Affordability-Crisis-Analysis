@@ -21,4 +21,10 @@ Python · pandas · numpy · matplotlib/plotly
 Below are example visuals from the project:
 
 ### Cost of Buying vs Renting
+![Mortgage versus Rent](images/Mortgage_Payment_Rent.png)
 
+### Price Increases
+![Median Price of Homes](images/Median_Home_Prices.png)
+
+### Rate Increases
+![Mortgage Rate Increases](images/Mortgage_Rates.png)
