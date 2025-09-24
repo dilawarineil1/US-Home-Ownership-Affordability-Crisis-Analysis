@@ -15,3 +15,11 @@ Python · pandas · numpy · matplotlib/plotly
 ## 🚀 How to Run
 1. Clone this repository
 2. Run the Python Notebook
+   
+## 📊 Results
+
+Below are example visuals from the project:
+
+### Cost of Buying vs Renting
+[Buying vs Renting](images/Mortgage_Payment_vs_Rent.png)
+
