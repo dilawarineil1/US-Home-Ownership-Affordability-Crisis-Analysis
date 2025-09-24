@@ -21,5 +21,4 @@ Python · pandas · numpy · matplotlib/plotly
 Below are example visuals from the project:
 
 ### Cost of Buying vs Renting
-[Buying vs Renting](images/Mortgage_Payment_vs_Rent.png)
 
